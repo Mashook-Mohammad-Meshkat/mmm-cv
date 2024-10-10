@@ -144,7 +144,7 @@ import HelloWorld from './components/HelloWorld.vue'
                   <b
                     >Managment Trainee Officer - Tech /
                     <a
-                      href="https://drive.google.com/file/d/1wpP0chF3iATnjZRFCec8_S8x8tBD5mXi/view"
+                      href="https://www.wegro.global/"
                       target="_blank"
                       >WeGro Technologies ltd.</a
                     ></b
